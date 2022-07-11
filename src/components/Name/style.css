@@ -1,0 +1,11 @@
+.main{
+    margin:20px;
+
+}
+#show-on-click{
+    visibility:hidden;
+    background-color: rgba(15, 127, 127, 0.616);
+}
+#name{
+    height: 25px;
+}
